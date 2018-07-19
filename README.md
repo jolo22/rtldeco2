@@ -13,8 +13,10 @@ Instruction:
 
 How to use:
 Normally the decoders are started automatically upon reboot, if not type the following..
+- For dump1090
             /usr/local/rtldeco2/dump1090/dump1090
-            
+           
+- For rtl-ais    
             /usr/local/rtldeco2/rtl-ais/rtl_ais -d 1
 
 More features will be added in future revisions.
